@@ -1,2 +1,2 @@
 # research-hub
-Some technical aspects of applied mathematics with some research conducted during my PhD studies.
+Some technical aspects and exploration of pure mathematics, applied mathematics, mathematical finance, and machine learning.
